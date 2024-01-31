@@ -1,0 +1,6 @@
+{
+  "commands" : [
+    "*.tex : pdflatex abschlussarbeit",
+    "*/*.bib : biber abschlussarbeit"
+  ]
+}
